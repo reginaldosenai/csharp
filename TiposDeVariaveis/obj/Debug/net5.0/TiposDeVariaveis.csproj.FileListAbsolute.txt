@@ -1,0 +1,16 @@
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\bin\Debug\net5.0\TiposDeVariaveis.exe
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\bin\Debug\net5.0\TiposDeVariaveis.deps.json
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\bin\Debug\net5.0\TiposDeVariaveis.runtimeconfig.json
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\bin\Debug\net5.0\TiposDeVariaveis.runtimeconfig.dev.json
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\bin\Debug\net5.0\TiposDeVariaveis.dll
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\bin\Debug\net5.0\ref\TiposDeVariaveis.dll
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\bin\Debug\net5.0\TiposDeVariaveis.pdb
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\TiposDeVariaveis.csprojAssemblyReference.cache
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\TiposDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\TiposDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\TiposDeVariaveis.AssemblyInfo.cs
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\TiposDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\TiposDeVariaveis.dll
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\ref\TiposDeVariaveis.dll
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\TiposDeVariaveis.pdb
+C:\Users\android\Documents\GitRegiSENAI\csharp\TiposDeVariaveis\obj\Debug\net5.0\TiposDeVariaveis.genruntimeconfig.cache
